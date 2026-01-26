@@ -105,29 +105,6 @@ const edisson = {
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-
-## 📊 Profile Stats
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=edissonparicahua123&style=for-the-badge&color=blueviolet)
-![](https://img.shields.io/github/followers/edissonparicahua123?style=for-the-badge&color=blue)
-![](https://img.shields.io/github/stars/edissonparicahua123?style=for-the-badge&color=yellow)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
