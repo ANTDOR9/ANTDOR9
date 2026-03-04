@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Anthony Huilahuaña
+# 👋 Hi, I'm Anthony Dorly
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%9A%80;Anime+Enthusiast+%F0%9F%8E%8C" alt="Typing SVG" />
 
