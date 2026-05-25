@@ -22,7 +22,7 @@ const edisson = {
   education: "Software Engineering with AI",
   role: "Full Stack Developer",
   code: [
-    "JavaScript", "Python", 
+    "JavaScript", "Python", "css", 
     "Java", "Kotlim"
   ],
   hobbies: [
