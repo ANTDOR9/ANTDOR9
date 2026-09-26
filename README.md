@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&reversal=true&height=130&color=0:1a1b27,50:6366F1,100:bf91f3" width="100%"/>
+
 <div align="center">
 
 # 👋 Hi, I'm Anthony Dorly
@@ -38,33 +40,44 @@ const anthony = {
 </tr>
 </table>
 
-### 🔭 Currently
+<div align="center">
 
-- 💼 Intern at **Brighter Perú** — Odoo ERP administration & development, WordPress sites and testing for BTOUCH interactive panels
-- 🎓 4th semester of **Software Engineering with AI** (PIAD) at SENATI
-- λ Exploring **Haskell** and functional programming
-- 🇬🇧 Improving my English at British House
+<table>
+<tr>
+<td align="center">
+
+**🔭 Currently**
+
+💼 Dev Intern @ **Brighter Perú**<br>
+🎓 Software Engineering with AI @ **SENATI**<br>
+λ Learning **Haskell**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📂 Featured Projects
+## 📂 Mis Proyectos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎙️ [PROTOTIPO-VISSUAL](https://github.com/ANTDOR9/PROTOTIPO-VISSUAL)
-Android app for BTOUCH interactive panels with **offline voice recognition**.
+App Android para las pantallas BTOUCH que **entiende comandos de voz sin internet**.
 
 `Kotlin` `Android`
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 ISMA — Sales & Inventory System
-SENATI capstone: sales and inventory management system for BTOUCH products.
+### 📦 ISMA — Ventas e Inventario
+Sistema para controlar ventas y stock de productos BTOUCH. Mi proyecto final en SENATI.
 
-`Software Engineering` `Databases`
+`Base de datos` `Sistema web`
 
 </td>
 </tr>
@@ -72,7 +85,7 @@ SENATI capstone: sales and inventory management system for BTOUCH products.
 <td width="50%" valign="top">
 
 ### 🌸 [Flor Primaveral](https://github.com/ANTDOR9/PROYECTO-FLOR-PRIMAVERAL)
-Interactive spring-themed web experience.
+Página web interactiva con temática de primavera.
 
 `HTML` `CSS` `JavaScript`
 
@@ -80,9 +93,9 @@ Interactive spring-themed web experience.
 <td width="50%" valign="top">
 
 ### 📚 [Ejercicios-SENATI](https://github.com/ANTDOR9/Ejercicios-SENATI)
-My exercises and reports from the PIAD program, organized by course.
+Mis ejercicios e informes de SENATI, ordenados por curso.
 
-`Python` `Study`
+`Python` `Estudio`
 
 </td>
 </tr>
@@ -129,7 +142,7 @@ My exercises and reports from the PIAD program, organized by course.
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://media1.tenor.com/m/3mYiU6n2x2YAAAAd/dota-pudge.gif" width="170" height="110"/>
+<img src="https://media1.tenor.com/m/1e07iG_ctT0AAAAC/dota-dota2.gif" width="170" height="110"/>
 <br>
 <b>🛡️ Dota 2</b>
 </td>
@@ -139,7 +152,7 @@ My exercises and reports from the PIAD program, organized by course.
 <b>🎯 Overwatch</b>
 </td>
 <td align="center" width="25%">
-<img src="https://media1.tenor.com/m/2AkTB7wEtcwAAAAC/l4d-2.gif" width="170" height="110"/>
+<img src="https://media1.tenor.com/m/0YIlkS1rbK4AAAAC/left-4-dead-2.gif" width="170" height="110"/>
 <br>
 <b>🧟 Left 4 Dead 2</b>
 </td>
@@ -167,8 +180,37 @@ My exercises and reports from the PIAD program, organized by course.
 <td align="center"><img src="https://media.tenor.com/_6wS-ccHay8AAAAM/miku-nakano-cookie.gif" width="75" height="75"/><br><sub>Miku</sub></td>
 <td align="center"><img src="https://media.tenor.com/eeLfs67r9hgAAAAM/nezuko-kamado.gif" width="75" height="75"/><br><sub>Nezuko</sub></td>
 <td align="center"><img src="https://media.tenor.com/7PXqbKPE3_kAAAAM/violetaa-ever.gif" width="75" height="75"/><br><sub>Violet</sub></td>
+<td align="center"><img src="https://media1.tenor.com/m/J5CermPx3iwAAAAC/eris-boreas-greyrat-eris-boreas.gif" width="75" height="75"/><br><sub>Eris</sub></td>
+<td align="center"><img src="https://media.tenor.com/9XGuoKOSqrcAAAAm/kaguya-sama-kaguya.webp" width="75" height="75"/><br><sub>Kaguya</sub></td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ANTDOR9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=ANTDOR9&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" height="165"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANTDOR9&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" height="150"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANTDOR9/ANTDOR9/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ANTDOR9/ANTDOR9/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ANTDOR9/ANTDOR9/output/github-snake.svg">
+</picture>
 
 </div>
 
@@ -178,13 +220,10 @@ My exercises and reports from the PIAD program, organized by course.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANTDOR9)
-<!-- Reemplaza los enlaces y quita los comentarios para mostrarlos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TU-ID)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU-USUARIO)
--->
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anthony.huilahuana/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/borealis_visual/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-dorly-huilahua%C3%B1a-chata-b1617b216/)
+[![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198253922532/)
 
 </div>
 
@@ -192,7 +231,7 @@ My exercises and reports from the PIAD program, organized by course.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:bf91f3,50:6366F1,100:1a1b27" width="100%"/>
 
 ### 🎮 GG WP — see you in the next commit 💜
 
