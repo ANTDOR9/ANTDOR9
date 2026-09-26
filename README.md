@@ -113,8 +113,6 @@ const anthony = {
 
 <img src="assets/jakiro.gif" width="440"/>
 
-### Jakiro — Twin Head Dragon 🔥❄️
-<sub>Dual Breath · Ice Path · Liquid Fire · Macropyre</sub>
 
 </div>
 
