@@ -40,67 +40,6 @@ const anthony = {
 </tr>
 </table>
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-**🔭 Currently**
-
-💼 Dev Intern @ **Brighter Perú**<br>
-🎓 Software Engineering with AI @ **SENATI**<br>
-λ Learning **Haskell**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📂 Mis Proyectos
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎙️ [PROTOTIPO-VISSUAL](https://github.com/ANTDOR9/PROTOTIPO-VISSUAL)
-App Android para las pantallas BTOUCH que **entiende comandos de voz sin internet**.
-
-`Kotlin` `Android`
-
-</td>
-<td width="50%" valign="top">
-
-### 📦 ISMA — Ventas e Inventario
-Sistema para controlar ventas y stock de productos BTOUCH. Mi proyecto final en SENATI.
-
-`Base de datos` `Sistema web`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌸 [Flor Primaveral](https://github.com/ANTDOR9/PROYECTO-FLOR-PRIMAVERAL)
-Página web interactiva con temática de primavera.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 [Ejercicios-SENATI](https://github.com/ANTDOR9/Ejercicios-SENATI)
-Mis ejercicios e informes de SENATI, ordenados por curso.
-
-`Python` `Estudio`
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -142,7 +81,7 @@ Mis ejercicios e informes de SENATI, ordenados por curso.
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://media1.tenor.com/m/1e07iG_ctT0AAAAC/dota-dota2.gif" width="170" height="110"/>
+<img src="https://media.tenor.com/1e07iG_ctT0AAAAM/dota-dota2.gif" width="170" height="110"/>
 <br>
 <b>🛡️ Dota 2</b>
 </td>
@@ -163,6 +102,19 @@ Mis ejercicios e informes de SENATI, ordenados por curso.
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## 🐉 Main Hero
+
+<div align="center">
+
+<img src="assets/jakiro.gif" width="440"/>
+
+### Jakiro — Twin Head Dragon 🔥❄️
+<sub>Dual Breath · Ice Path · Liquid Fire · Macropyre</sub>
 
 </div>
 
@@ -189,14 +141,11 @@ Mis ejercicios e informes de SENATI, ordenados por curso.
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ANTDOR9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=ANTDOR9&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" height="165"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANTDOR9&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" height="150"/>
 
 </div>
 
