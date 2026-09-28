@@ -116,28 +116,6 @@ const anthony = {
 
 </div>
 
----
-
-## 💖 Waifu Corner
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center"><img src="https://media.tenor.com/EQCT1ywCR0wAAAAM/alya-alisa-mikhailovna-kujou.gif" width="75" height="75"/><br><sub>Alya</sub></td>
-<td align="center"><img src="https://media.tenor.com/a1V-3ctKdQ0AAAAM/rem-rezero.gif" width="75" height="75"/><br><sub>Rem</sub></td>
-<td align="center"><img src="https://media.tenor.com/RmqS7PHT4-QAAAAM/zero-two-darling-and-the-franxx.gif" width="75" height="75"/><br><sub>Zero Two</sub></td>
-<td align="center"><img src="https://media.tenor.com/_6wS-ccHay8AAAAM/miku-nakano-cookie.gif" width="75" height="75"/><br><sub>Miku</sub></td>
-<td align="center"><img src="https://media.tenor.com/eeLfs67r9hgAAAAM/nezuko-kamado.gif" width="75" height="75"/><br><sub>Nezuko</sub></td>
-<td align="center"><img src="https://media.tenor.com/7PXqbKPE3_kAAAAM/violetaa-ever.gif" width="75" height="75"/><br><sub>Violet</sub></td>
-<td align="center"><img src="https://media1.tenor.com/m/J5CermPx3iwAAAAC/eris-boreas-greyrat-eris-boreas.gif" width="75" height="75"/><br><sub>Eris</sub></td>
-<td align="center"><img src="https://media.tenor.com/9XGuoKOSqrcAAAAm/kaguya-sama-kaguya.webp" width="75" height="75"/><br><sub>Kaguya</sub></td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
