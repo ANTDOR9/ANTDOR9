@@ -23,7 +23,7 @@
 const anthony = {
   location: "Arequipa, Perú 🇵🇪",
   education: "Software Engineering with AI @ SENATI",
-  work: "Software Dev Intern @ Brighter Perú",
+  work: "Software Dev Intern @ Nasa Perú",
   code: ["Python", "JavaScript", "Kotlin", "Java"],
   learning: ["Haskell λ", "English 🇬🇧"],
   hobbies: ["Gaming 🎮", "Anime 🎌", "Coding 💻"],
