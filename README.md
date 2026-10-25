@@ -26,7 +26,7 @@ const anthony = {
   work: "Software Dev Intern @ Nasa Perú",
   code: ["Python", "JavaScript", "Kotlin", "Java"],
   learning: ["Haskell λ", "English 🇬🇧"],
-  hobbies: ["Gaming 🎮", "Anime 🎌", "Coding 💻"],
+  hobbies: ["Gaming 🎮", "Anime 🎌", "Coding 💻 , trabitas"],
   funFact: "I learn Haskell for fun 🤓"
 };
 ```
